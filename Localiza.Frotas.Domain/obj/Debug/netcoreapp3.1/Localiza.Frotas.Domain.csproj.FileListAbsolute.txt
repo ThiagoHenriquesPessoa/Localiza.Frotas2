@@ -1,0 +1,9 @@
+C:\Users\thiag\source\repos\Localiza.Frotas\Localiza.Frotas.Domain\bin\Debug\netcoreapp3.1\Localiza.Frotas.Domain.deps.json
+C:\Users\thiag\source\repos\Localiza.Frotas\Localiza.Frotas.Domain\bin\Debug\netcoreapp3.1\Localiza.Frotas.Domain.dll
+C:\Users\thiag\source\repos\Localiza.Frotas\Localiza.Frotas.Domain\bin\Debug\netcoreapp3.1\Localiza.Frotas.Domain.pdb
+C:\Users\thiag\source\repos\Localiza.Frotas\Localiza.Frotas.Domain\obj\Debug\netcoreapp3.1\Localiza.Frotas.Domain.csproj.AssemblyReference.cache
+C:\Users\thiag\source\repos\Localiza.Frotas\Localiza.Frotas.Domain\obj\Debug\netcoreapp3.1\Localiza.Frotas.Domain.AssemblyInfoInputs.cache
+C:\Users\thiag\source\repos\Localiza.Frotas\Localiza.Frotas.Domain\obj\Debug\netcoreapp3.1\Localiza.Frotas.Domain.AssemblyInfo.cs
+C:\Users\thiag\source\repos\Localiza.Frotas\Localiza.Frotas.Domain\obj\Debug\netcoreapp3.1\Localiza.Frotas.Domain.csproj.CoreCompileInputs.cache
+C:\Users\thiag\source\repos\Localiza.Frotas\Localiza.Frotas.Domain\obj\Debug\netcoreapp3.1\Localiza.Frotas.Domain.dll
+C:\Users\thiag\source\repos\Localiza.Frotas\Localiza.Frotas.Domain\obj\Debug\netcoreapp3.1\Localiza.Frotas.Domain.pdb

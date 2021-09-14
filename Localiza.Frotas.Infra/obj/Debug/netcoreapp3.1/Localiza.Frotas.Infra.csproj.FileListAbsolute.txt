@@ -1,0 +1,9 @@
+C:\Users\thiag\source\repos\Localiza.Frotas\Localiza.Frotas.Infra\bin\Debug\netcoreapp3.1\Localiza.Frotas.Infra.deps.json
+C:\Users\thiag\source\repos\Localiza.Frotas\Localiza.Frotas.Infra\bin\Debug\netcoreapp3.1\Localiza.Frotas.Infra.dll
+C:\Users\thiag\source\repos\Localiza.Frotas\Localiza.Frotas.Infra\bin\Debug\netcoreapp3.1\Localiza.Frotas.Infra.pdb
+C:\Users\thiag\source\repos\Localiza.Frotas\Localiza.Frotas.Infra\obj\Debug\netcoreapp3.1\Localiza.Frotas.Infra.csproj.AssemblyReference.cache
+C:\Users\thiag\source\repos\Localiza.Frotas\Localiza.Frotas.Infra\obj\Debug\netcoreapp3.1\Localiza.Frotas.Infra.AssemblyInfoInputs.cache
+C:\Users\thiag\source\repos\Localiza.Frotas\Localiza.Frotas.Infra\obj\Debug\netcoreapp3.1\Localiza.Frotas.Infra.AssemblyInfo.cs
+C:\Users\thiag\source\repos\Localiza.Frotas\Localiza.Frotas.Infra\obj\Debug\netcoreapp3.1\Localiza.Frotas.Infra.csproj.CoreCompileInputs.cache
+C:\Users\thiag\source\repos\Localiza.Frotas\Localiza.Frotas.Infra\obj\Debug\netcoreapp3.1\Localiza.Frotas.Infra.dll
+C:\Users\thiag\source\repos\Localiza.Frotas\Localiza.Frotas.Infra\obj\Debug\netcoreapp3.1\Localiza.Frotas.Infra.pdb
