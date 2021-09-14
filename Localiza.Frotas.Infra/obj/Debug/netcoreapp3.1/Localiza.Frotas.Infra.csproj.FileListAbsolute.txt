@@ -7,3 +7,6 @@ C:\Users\thiag\source\repos\Localiza.Frotas\Localiza.Frotas.Infra\obj\Debug\netc
 C:\Users\thiag\source\repos\Localiza.Frotas\Localiza.Frotas.Infra\obj\Debug\netcoreapp3.1\Localiza.Frotas.Infra.csproj.CoreCompileInputs.cache
 C:\Users\thiag\source\repos\Localiza.Frotas\Localiza.Frotas.Infra\obj\Debug\netcoreapp3.1\Localiza.Frotas.Infra.dll
 C:\Users\thiag\source\repos\Localiza.Frotas\Localiza.Frotas.Infra\obj\Debug\netcoreapp3.1\Localiza.Frotas.Infra.pdb
+C:\Users\thiag\source\repos\Localiza.Frotas\Localiza.Frotas.Infra\bin\Debug\netcoreapp3.1\Localiza.Frotas.Domain.dll
+C:\Users\thiag\source\repos\Localiza.Frotas\Localiza.Frotas.Infra\bin\Debug\netcoreapp3.1\Localiza.Frotas.Domain.pdb
+C:\Users\thiag\source\repos\Localiza.Frotas\Localiza.Frotas.Infra\obj\Debug\netcoreapp3.1\Localiza.Frotas.Infra.csproj.CopyComplete

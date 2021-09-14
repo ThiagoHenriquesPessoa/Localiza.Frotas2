@@ -7,14 +7,27 @@
   "targets": {
     ".NETCoreApp,Version=v3.1": {
       "Localiza.Frotas.Infra/1.0.0": {
+        "dependencies": {
+          "Localiza.Frotas.Domain": "1.0.0"
+        },
         "runtime": {
           "Localiza.Frotas.Infra.dll": {}
+        }
+      },
+      "Localiza.Frotas.Domain/1.0.0": {
+        "runtime": {
+          "Localiza.Frotas.Domain.dll": {}
         }
       }
     }
   },
   "libraries": {
     "Localiza.Frotas.Infra/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Localiza.Frotas.Domain/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

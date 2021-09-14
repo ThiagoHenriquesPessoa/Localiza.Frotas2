@@ -392,6 +392,9 @@
         }
       },
       "Localiza.Frotas.Infra/1.0.0": {
+        "dependencies": {
+          "Localiza.Frotas.Domain": "1.0.0"
+        },
         "runtime": {
           "Localiza.Frotas.Infra.dll": {}
         },

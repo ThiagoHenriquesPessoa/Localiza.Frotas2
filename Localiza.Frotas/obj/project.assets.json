@@ -86,6 +86,9 @@
       "Localiza.Frotas.Infra/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "Localiza.Frotas.Domain": "1.0.0"
+        },
         "compile": {
           "bin/placeholder/Localiza.Frotas.Infra.dll": {}
         },

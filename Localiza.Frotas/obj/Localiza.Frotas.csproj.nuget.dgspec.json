@@ -93,7 +93,11 @@
         "frameworks": {
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
-            "projectReferences": {}
+            "projectReferences": {
+              "C:\\Users\\thiag\\source\\repos\\Localiza.Frotas\\Localiza.Frotas.Domain\\Localiza.Frotas.Domain.csproj": {
+                "projectPath": "C:\\Users\\thiag\\source\\repos\\Localiza.Frotas\\Localiza.Frotas.Domain\\Localiza.Frotas.Domain.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
